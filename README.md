@@ -80,3 +80,8 @@ Input
 Output
 Report the students who got left.(Print it to stdout)
 Write allocation in a file name allocation.txt, with each course number containing number of actual students who enrolled into it.
+
+
+
+Os.c Code contains :-
+A simple bash like shell implementation. Handles background and foreground processes,can perform standard IPC operations, like pipes. Also handles file, stream buffers and redirections. Gives proper perception of bourne shell.
